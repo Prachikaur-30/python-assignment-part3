@@ -1,0 +1,4 @@
+2026-03-31 15:05:27,313 - ERROR - Caught an expected 404 from https://dummyjson.com/this-route-doesnt-exist: 404 Client Error: Not Found for url: https://dummyjson.com/this-route-doesnt-exist
+2026-03-31 15:05:43,964 - ERROR - Caught an expected 404 from https://dummyjson.com/this-route-doesnt-exist: 404 Client Error: Not Found for url: https://dummyjson.com/this-route-doesnt-exist
+[2026-03-31 15:42:54] ERROR in test_connection: ConnectionError — No connection could be made to unreachable host
+[2026-03-31 15:42:55] ERROR in test_http_error: HTTPError — 404 Not Found for product ID 999
